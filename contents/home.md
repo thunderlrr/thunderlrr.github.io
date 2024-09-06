@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![thunderlrr](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/thunderlrr/thunderlrr.github.io)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Data Science and Analytics, at Information Hub, The Hong Kong University of Science and Technology(Guangzhou), China.
 
 #### Email
-sli[at]cumt.edu.cn
+slei924[at]connect.hkust-gz.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Mphil., Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology(Guangzhou), 2024—2026 (expected).\
+B.S., Data Science and Big Data Technology, School of Mathematics, Tianjin University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Urban Computing, Deep reinforcement learning, Convex optimization, Multi-modal.
 
